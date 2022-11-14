@@ -1,5 +1,5 @@
-# CV-new
-Here my new CV:)
+# CV
+Here my CV:)
 
 This CV shows that I can:
 * create layouts using HTML, CSS and SCSS
